@@ -1,0 +1,1 @@
+Egyszerű header vékony borderrel
