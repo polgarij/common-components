@@ -1,0 +1,1 @@
+egyszerű footer, adatok egymás mellett
