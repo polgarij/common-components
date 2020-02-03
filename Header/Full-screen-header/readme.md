@@ -1,0 +1,1 @@
+Teljes oldalas header cover háttérképpel
