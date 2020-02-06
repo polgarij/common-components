@@ -1,0 +1,1 @@
+Rögzített felső navigáció mobilra és képernyőre
